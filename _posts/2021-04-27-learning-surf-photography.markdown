@@ -13,15 +13,15 @@ categories:
 Writing about what you're doing is a great way to reinforce what you're learning. 
 Often the best person t learn something from is someone who is just a few steps ahead of yourself in the process.
 
-I'd made a few Wordpress websites in the past, and experimented with Tumblr as a platform for documenting the thigns I was experimenting with in surf photography.
+I'd made a few WordPress websites in the past, and experimented with Tumblr as a platform for documenting the things I was experimenting with in surf photography.
 
-In 2012 I decided to formalise my surf photography learning process by registering learningsurfphotography.com and setting up a Wordpress site.
+In 2012 I decided to formalise my surf photography learning process by registering learningsurfphotography.com and setting up a WordPress site.
 
 I didn't want to spend any money (I was saving up for a water housing for my camera at the time), so I used a free hosting provider for the nascent site.
 
-About a year later I was hitting the limits of free hosting so I moved on to a shared hosting package. I learned about administering a Wordpress site, juggling domain names and was beginiing to think about monetising my site to cover the hosting costs.
+About a year later I was hitting the limits of free hosting so I moved on to a shared hosting package. I learned about administering a WordPress site, juggling domain names and was beginning to think about monetising my site to cover the hosting costs.
 
-I tried out Google Adsense, but I dislike adverts as much as everyone else, so I gave up after a few months.
+I tried out Google AdSense, but I dislike adverts as much as everyone else, so I gave up after a few months.
 
 At this point I was tapping in to podcasts as a source of information that I could gather when doing otherwise boring activities. I'm not sure where I heard about affiliate programmes first, but soon after I signed up for Amazon's affiliate system and started adding links to the reviews and list posts I was making on the site.
 
