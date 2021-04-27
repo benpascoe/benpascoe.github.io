@@ -1,15 +1,20 @@
-remote_theme: "mmistakes/minimal-mistakes@4.19.2"
-
+---
+title: Ben Pascoe
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+remote_theme: mmistakes/minimal-mistakes@4.19.2
 plugins:
-  - jekyll-include-cache
-
-title: "Ben Pascoe"
-
-description: "A personal site."
-url: "https://benpascoe.com"
-
+- jekyll-include-cache
+description: A personal site.
+url: https://benpascoe.com
 author:
-  name     : "Ben Pascoe"
-  avatar   : "/assets/images/Ben-Pascoe.jpg"
-  bio      : "Surf photographer, data analyst."
-  location : "UK"
+  name: Ben Pascoe
+  avatar: "/assets/images/Ben-Pascoe.jpg"
+  bio: Surf photographer, data analyst.
+  location: UK
