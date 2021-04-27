@@ -1,6 +1,11 @@
 ---
 title: Learning Surf Photography
 date: 2021-04-27 12:30:00 Z
+categories:
+- web
+- learning
+- project
+- LSP
 ---
 
 **Summary:** Documenting my learning process as I went from beginner to keen amateur in surf photography. Monetised with affiliate links, built on Wordpress.
@@ -20,7 +25,7 @@ I tried out Google Adsense, but I dislike adverts as much as everyone else, so I
 
 At this point I was tapping in to podcasts as a source of information that I could gather when doing otherwise boring activities. I'm not sure where I heard about affiliate programmes first, but soon after I signed up for Amazon's affiliate system and started adding links to the reviews and list posts I was making on the site.
 
-My wife and I had our first child in 2014, and in the downtime between daddy duties I would usually manage to write a blog post and a couple of Instagram posts a week to promote the site.
+My wife and I had our first child in 2014, and in the downtime between parenting duties I would usually manage to write a blog post and a couple of Instagram posts a week to promote the site.
 
 Since then it's helped tens of thousands of people improve their surf photography techniques and get the right equipment.
 
