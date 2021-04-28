@@ -52,7 +52,12 @@ The tidal range of my local spots is about 6m (20 feet). I live on a headland th
 
 I want to check what conditions were like for the session, including tide, multiple swell sizes and directions, and wind, even if it was 10 years ago.
 
+Here's what's going on:
 
+Digital Ocean droplet - Docker containers for Flask App, Redis and Postgres database.
+Rpi 4 + SSD, Postgres database which automatically grabs new netcdf files from ifremer via ftp.
+
+The last 30 years of swell data for 1,500 locations that are closest to popular surf coastlines.
 
 
 
